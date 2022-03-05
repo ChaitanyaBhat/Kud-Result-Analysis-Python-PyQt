@@ -2,6 +2,8 @@
 
 This is an app to fetch and display the results of all the students of a class from a University website.
 
+Student result analysis is a web-based application developed for collages to analyse the result and keep track of students. We are able to see the individual candidate’s results separately. Student result analysis system has been designed to carry out the   mark analysis process in an educational institution. The results of respective departments can be efficiently computed without much of manual involvement. Given the continuous rise in student population, tertiary institutions calculate examination result of students with the help of computer programs. the use of programs that extends capabilities beyond examination result computation is not widespread. The system provides a comprehensive solution to the demand of examination result computation as well as student information and academic record management. 
+
 The UI of some of the pages of the app is shown below:
 
 ![kud-result-analysis1](https://user-images.githubusercontent.com/58632626/151349351-2ea19120-4ad8-4069-a765-d39574cf3c55.png)
