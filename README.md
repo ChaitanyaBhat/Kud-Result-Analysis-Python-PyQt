@@ -1,4 +1,4 @@
-# KUD RESULT ANALYSIS APP
+# KUD RESULT ANALYSIS APP:
 
 This is an app to fetch and display the results of all the students of a class from a University website.
 
